@@ -16,7 +16,7 @@ const SidebarNew = () => {
             <li> <a href="/" className='bg-white py-2 my-2'> <b> Languages</b></a></li>
             <li> <a href="/" className='bg-white py-2 my-2'> <b> Geners </b> </a></li>
           </ul>
-          <div className="col-md-10 m-0">
+          <div className="col-md-10 py-5 bg-dark">
             <ImageSlider />
             <div className='d-flex text-center mx-4'>
               <HoverButtonPage />

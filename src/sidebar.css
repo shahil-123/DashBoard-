@@ -28,7 +28,8 @@
     background-color: #e9ecef;
   }
   .sidebar{
-    height:90vh;
+    /* height:90vh; */
+    height: calc(150vh - 200px )!important;
     background-color: rgb(20, 109, 112) !important;
   }
 
@@ -82,6 +83,7 @@
   .description {
     margin-top: 10px;
     width: 300px;
+    color:white;
   }
   
 
